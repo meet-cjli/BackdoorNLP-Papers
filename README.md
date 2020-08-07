@@ -12,8 +12,7 @@
 
 
 ## 1. Attack Papers
-1. **Weight Poisoning Attacks on Pre-trained Models**. *Keita Kurita , Paul Michel, Graham Neubig*. ACL 2020. [[pdf](https://arxiv.org/abs/2004.06660)] [[code](https://github.com/
-neulab/RIPPLe)]
+1. **Weight Poisoning Attacks on Pre-trained Models**. *Keita Kurita , Paul Michel, Graham Neubig*. ACL 2020. [[pdf](https://arxiv.org/abs/2004.06660)] [[code](https://github.com/neulab/RIPPLe)]
 2. **BadNL: Backdoor Attacks Against NLP Models**. *Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, Yang Zhang*. Preprint. [[pdf](https://arxiv.org/abs/2006.01043)]
 3. **Trojaning Language Models for Fun and Profit**. *Xinyang Zhang, Zheng Zhang, Ting Wang*. Preprint. [[pdf](https://arxiv.org/abs/2008.00312v1)]
 
